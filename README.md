@@ -1,6 +1,6 @@
-# Portafolio de Plomería
+# Plomeros Asociados — Sitio Web
 
-Sitio web sencillo y adaptable para GitHub Pages.
+Sitio web responsive de Plomeros Asociados para GitHub Pages.
 
 ## Archivos
 
@@ -28,7 +28,7 @@ const WHATSAPP_NUMBER = "5355555555";
 ## Publicar en GitHub Pages
 
 1. Crear una cuenta en GitHub.
-2. Crear un repositorio llamado `plomeria`.
+2. Crear o usar el repositorio del sitio (por ejemplo `plomeria`).
 3. Subir todos estos archivos.
 4. Abrir `Settings`.
 5. Entrar en `Pages`.
@@ -38,4 +38,11 @@ const WHATSAPP_NUMBER = "5355555555";
 
 La dirección normalmente será:
 
-`https://USUARIO.github.io/plomeria/`
+`https://associateplumbers.github.io/plomeria/` (si la cuenta de GitHub se llama `associateplumbers`)
+
+
+## Identidad del sitio
+
+- Marca: **Plomeros Asociados**
+- Identificador recomendado de GitHub: `associateplumbers`
+- Logo: `images/plomeros-asociados-logo.png`
