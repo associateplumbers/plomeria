@@ -520,3 +520,14 @@ h2 {
     padding: 32px 24px;
   }
 }
+
+/* Versión 1.0 */
+.hero-photo {display:block;width:100%;height:320px;object-fit:cover;border-radius:18px}
+.service-icon img {width:45px;height:45px;object-fit:contain}
+.service-icon {width:64px;height:64px}
+.service-card p {white-space:normal}
+.warranty-section {padding:54px 0;background:#eaf6fc;text-align:center}
+.warranty-inner {max-width:850px}
+.warranty-inner h2 {font-size:clamp(1.7rem,3.4vw,2.7rem)}
+.warranty-inner p {font-size:1.08rem}
+.project-photo {width:100%;height:270px;object-fit:cover;display:block}
