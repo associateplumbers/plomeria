@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "00000000000";
+const WHATSAPP_NUMBER = "5358546106";
 const DEFAULT_MESSAGE = "Hola, vi su página web y quisiera información sobre un trabajo de plomería.";
 
 document.querySelectorAll(".whatsapp-link").forEach((link) => {
